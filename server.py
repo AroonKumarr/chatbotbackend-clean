@@ -1,4 +1,4 @@
-import pymupdf as fitz
+import fitz 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from openai import OpenAI
