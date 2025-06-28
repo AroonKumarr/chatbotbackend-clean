@@ -1,5 +1,5 @@
-flask
-flask-cors
+Flask
 python-dotenv
 openai
-pymupdf
+flask-cors
+PyMuPDF
